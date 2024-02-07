@@ -1,0 +1,8 @@
+{
+    "nim.project": [
+        "src/back/back.nim",
+        "src/front/front.nim"
+    ],
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true
+}
